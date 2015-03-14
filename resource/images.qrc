@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>browserDefault.png</file>
+        <file>closeDefault.png</file>
+        <file>connectDefault.png</file>
+        <file>helpDefault.png</file>
+        <file>minimizeDefault.png</file>
+        <file>settingDefault.png</file>
+        <file>splash.png</file>
+        <file>graph.png</file>
+        <file>signalStrength0.png</file>
+        <file>speedMeter1.png</file>
+        <file>background.png</file>
+        <file>browserHover.png</file>
+        <file>browserPress.png</file>
+        <file>closeHover.png</file>
+        <file>closePress.png</file>
+        <file>connectHover.png</file>
+        <file>connectPress.png</file>
+        <file>helpHover.png</file>
+        <file>helpPress.png</file>
+        <file>logo.png</file>
+        <file>settingsHover.png</file>
+        <file>settingsPress.png</file>
+        <file>minimizeHover.png</file>
+        <file>minimizePress.png</file>
+        <file>settingsDefault.png</file>
+        <file>headerBackground.png</file>
+        <file>dataBackground.png</file>
+    </qresource>
+</RCC>
